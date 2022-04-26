@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 📱 07.80.39.86.39
+    📱 06.71.89.44.41
+- 📆 19-08-1990 Algeria
 
 <!---
 Souhilboukhezza/Souhilboukhezza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
